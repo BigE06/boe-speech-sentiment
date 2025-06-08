@@ -1,0 +1,10 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore raw / bulky data
+data/raw/
+speeches_raw/
+
+# Ignore Excel originals & zips
+*.xlsx
+*.zip
