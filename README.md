@@ -13,7 +13,7 @@ predict future policy moves.
 | ONS | CPI YoY, GDP level, Unemployment %, Weekly-earnings YoY |
 | Yahoo Finance | FTSE All-Share monthly close |
 | Project | 1 700+ BoE speeches (1990-present) + Loughran-McDonald lexicon |
-![Rolling 12-mo Bank-Rate correlation](figures/rolling_corr.png)
+
 
 **Key findings**
 
